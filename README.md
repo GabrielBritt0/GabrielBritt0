@@ -3,7 +3,7 @@
  Meu nome é Gabriel Britto
 
   - Estou estudando na Anhanguera
-  - Estou cursando ciências da computação (semestre 1)
+  - Estou cursando ciências da computação
   - Utilizo esse espaço para compartilhar meus projetos desenvolvidos
 
 ## Você pode entrar em contato comigo 📫
